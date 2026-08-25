@@ -152,10 +152,10 @@ MAILERS = {
 
 # CORS
 # https://github.com/adamchainz/django-cors-headers
-
 CORS_ALLOWED_ORIGINS = [
+    "https://careerpilot-ai-two-zeta.vercel.app",
+    "https://careerpilot-am2oa0jw1-asna-asgars-projects.vercel.app",
     "http://localhost:3000",
-    "http://127.0.0.1:3000",
 ]
 
 
